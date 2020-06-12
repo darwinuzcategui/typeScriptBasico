@@ -1,0 +1,4 @@
+//  funcion auto invocada
+(()=>{
+    
+})();
