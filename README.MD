@@ -1,4 +1,4 @@
-# Fundaentos Basicos TypeScripts
+# Fundamentos TypeScripts
 
 * USO conts  , let
 * Tipado
